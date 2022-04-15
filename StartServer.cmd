@@ -1,2 +1,2 @@
-json-server --watch package.json
+json-server --watch JsonServer.json
 pause
